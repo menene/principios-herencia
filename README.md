@@ -11,7 +11,7 @@ Es necesario tener instalado un JDK.
 Desde la carpeta del proyecto, ejecuta:
 
 ```sh
-javac -encoding UTF-8 -d bin src/*.java
+javac -d bin src/*.java
 java -cp bin Main
 ```
 
